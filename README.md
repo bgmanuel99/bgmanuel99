@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align=center>
-  <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgmanuel99&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgmanuel99&layout=compact">
   <img height=175 src="https://github-readme-stats.vercel.app/api?username=bgmanuel99&show_icons=true&theme=tokyonight" />
 </div>
 
