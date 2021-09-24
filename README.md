@@ -1,6 +1,6 @@
 <div align=center>
-  <h3>Hi there 👋</h3>
-  <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgmanuel99&layout=compact">
+  <h1>Hi there 👋</h1>
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgmanuel99&layout=compact">
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=bgmanuel99&show_icons=true&theme=tokyonight" />
 </div>
 
