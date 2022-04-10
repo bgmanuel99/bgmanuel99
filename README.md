@@ -1,5 +1,8 @@
 <div align=center>
   <h1>Hi there 👋</h1>
+  <h6>Mi name is Manuel Barrenechea, i am a Data Engineer Intern making my way through the data world.</h6>
+  <h6>🔭 I’m currently working on a Data Engineer project for a company in Madrid, studing my last year in a Computer Engineer degree and working with Artificial Intelligence projects such as Neural Networks and Genetic Algorithms.</h6>
+  <h6>🌱 I’m currently learning Spark, Databricks, Scala and improving my skills on Python, SQL </h6>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align=center height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgmanuel99&layout=compact">
   </a>
