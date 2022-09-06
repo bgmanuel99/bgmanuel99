@@ -6,6 +6,12 @@
 
 - 📫 How to reach me **bgmanuel1999@.gmail.com**
 
+<h3 align="left">Connect with me</h3>
+<p align="left">
+<a href="https://twitter.com/bgmanu99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bgmanuel99" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mbg99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bgmanuel99" height="30" width="40" /></a>
+</p>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align=center height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgmanuel99&layout=compact">
 </a>
