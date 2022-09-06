@@ -1,4 +1,4 @@
-<h1>Hi there 👋</h1>
+<h1 align="center">Hi there 👋</h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=bgmanuel99&label=Profile%20views&color=0e75b6&style=flat" alt="bgmanuel99" /></p>
 <h5 align="center">Mi name is Manuel Barrenechea, i am a Data Engineer Intern making my way through the data world.</h5>
 <h5 align="center">🔭 I’m currently working on a Data Engineer project for a company in Madrid, studing my last year in a Computer Engineer degree and working with Artificial Intelligence projects such as Neural Networks and Genetic Algorithms.</h5>
