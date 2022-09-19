@@ -12,9 +12,7 @@
 <a href="https://www.linkedin.com/in/mbg99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bgmanuel99" height="30" width="40" /></a>
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align=center height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgmanuel99&layout=compact">
-</a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align=center height=175 src="https://github-readme-stats.vercel.app/api?username=bgmanuel99&show_icons=true&theme=tokyonight" />
 </a>
