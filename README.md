@@ -4,7 +4,7 @@
 <h3 align="center">🔭 I’m currently working on a Data Engineer project for a company in Madrid, studing my last year in a Computer Engineer degree and working with Artificial Intelligence projects such as Neural Networks and Genetic Algorithms.</h3>
 <h3 align="center">🌱 I’m currently learning Spark, Databricks, Scala and improving my skills on Python, SQL </h3>
 
-- 📫 How to reach me **bgmanuel1999@.gmail.com**
+- 📫 How to reach me **bgmanuel1999@gmail.com**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
