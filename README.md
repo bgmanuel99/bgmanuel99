@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://twitter.com/bgmanu99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bgmanuel99" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mbg99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bgmanuel99" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/mbg99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bgmanuel99" height="30" width="40" /></a>
+  <a href="[https://www.linkedin.com/in/mbg99](https://www.instagram.com/bgmanuel99/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bgmanuel99" height="30" width="40" /></a>
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
