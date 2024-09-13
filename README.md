@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋</h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=bgmanuel99&label=Profile%20views&color=0e75b6&style=flat" alt="bgmanuel99" /></p>
-<h3 align="center">Mi name is Manuel Barrenechea, i am a Data Engineer Intern making my way through the data world.</h3>
-<h3 align="center">🔭 I’m currently working on a Data Engineer project for a company in Madrid, studing my last year in a Computer Engineer degree and working with Artificial Intelligence projects such as Neural Networks and Genetic Algorithms.</h3>
-<h3 align="center">🌱 I’m currently learning Spark, Databricks, Scala and improving my skills on Python, SQL </h3>
+<h3 align="center">Mi name is Manuel Barrenechea, graduate from a Computer Engineering degree, i am a Data Scientist making my way through the data world.</h3>
+<h3 align="center">🔭 I’m currently working on Data Engineering and Data Scientist proyects for a company in Madrid.</h3>
+<h3 align="center">🌱 Currently studying a master degree in artificial intelligence</h3>
 
 - 📫 How to reach me **bgmanuel1999@gmail.com**
 
@@ -10,6 +10,7 @@
 <p align="left">
 <a href="https://twitter.com/bgmanu99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bgmanuel99" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mbg99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bgmanuel99" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/mbg99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bgmanuel99" height="30" width="40" /></a>
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
