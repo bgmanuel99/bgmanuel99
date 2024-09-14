@@ -1,27 +1,15 @@
-<div>
-  <a href="https://liyasthomas.github.io/banner/">
-    <img align=center src="https://github.com/bgmanuel99/bgmanuel99/blob/main/profile_banner.png">
-  </a>
-</div>
-
-<h1 align=right>
-  <img src="https://komarev.com/ghpvc/?username=bgmanuel99&color=blueviolet&style=flat&label=Visitors&abbreviated=true" alt="bgmanuel99"/>
-</h1>
+[![Banner](https://github.com/bgmanuel99/bgmanuel99/blob/main/profile_banner.png)](https://liyasthomas.github.io/banner/)
 
 <h1 align=center>Welcome to my profile!!👋</h1>
+<img src="https://komarev.com/ghpvc/?username=bgmanuel99&color=blueviolet&style=flat&label=Visitors&abbreviated=true" alt="bgmanuel99"/>
 
 <div>
   <h3>🧑‍💻 About Me</h3>
   <ul>
-    
     <il>My name is Manuel Barrenechea, graduated from Computer Engineering, i am a Data Scientist making my way through the data world </il>
-    
     <il>🔭 I’m currently working on Data Scientist and Engineering proyects </il>
-    
     <il>🌱 Currently studying a master's degree in artificial intelligence </il>
-    
     <il>📫 How to reach me **bgmanuel1999@gmail.com** </il>
-    
   </ul>
 </div>
 
