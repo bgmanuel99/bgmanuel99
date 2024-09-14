@@ -3,8 +3,7 @@
     <img align=center src="https://github.com/bgmanuel99/bgmanuel99/blob/main/profile_banner.png">
   </a>
 </div>
-![](https://komarev.com/ghpvc/?username=bgmanuel99)
-![Profile views](https://komarev.com/ghpvc/?username=bgmanuel99&color=blueviolet&style=flat&label=Views&abbreviated=true)
+<p align="right"><img src="https://komarev.com/ghpvc/?username=bgmanuel99&color=blueviolet&style=flat&label=Views&abbreviated=true" alt="bgmanuel99"/></p>
 <h2>:hammer_and_wrench: Languages and Tools</h2>
 <h3 align="center">Mi name is Manuel Barrenechea, graduate from a Computer Engineering degree, i am a Data Scientist making my way through the data world.</h3>
 <h3 align="center">🔭 I’m currently working on Data Engineering and Data Scientist proyects for a company in Madrid.</h3>
