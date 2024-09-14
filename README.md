@@ -1,7 +1,7 @@
 [![Banner](https://github.com/bgmanuel99/bgmanuel99/blob/main/profile_banner.png)](https://liyasthomas.github.io/banner/)
 
 <h1 align=center>Welcome to my profile!!👋</h1>
-<img src="https://komarev.com/ghpvc/?username=bgmanuel99&color=blueviolet&style=flat&label=Visitors&abbreviated=true" alt="bgmanuel99"/>
+<img align=right src="https://komarev.com/ghpvc/?username=bgmanuel99&color=blueviolet&style=flat&label=Visitors&abbreviated=true" alt="bgmanuel99"/>
 
 <div>
   <h3>🧑‍💻 About Me</h3>
