@@ -3,14 +3,26 @@
 <h1 align=center>Welcome to my profile!!👋</h1>
 <img align=right src="https://komarev.com/ghpvc/?username=bgmanuel99&color=blueviolet&style=flat&label=Visitors&abbreviated=true" alt="bgmanuel99"/>
 
-<div>
-  <h3>🧑‍💻 About Me</h3>
-  <ul>
-    <li>My name is Manuel Barrenechea, graduated from Computer Engineering, i am a Data Scientist making my way through the data world </li>
-    <li>🔭 I’m currently working on Data Scientist and Engineering proyects </li>
-    <li>🌱 Currently studying a master's degree in artificial intelligence </li>
-    <li>📫 How to reach me **bgmanuel1999@gmail.com** </li>
-  </ul>
+<div style="display: flex; flex-direction: row; width: 100%;">
+  <div style="width: 45%;">
+    <h3>🧑‍💻 About Me</h3>
+    <ul>
+      <li>My name is Manuel Barrenechea, graduated from Computer Engineering, i am a Data Scientist making my way through the data world </li>
+      <li>🔭 I’m currently working on Data Scientist and Engineering proyects </li>
+      <li>🌱 Currently studying a master's degree in artificial intelligence </li>
+      <li>📫 How to reach me **bgmanuel1999@gmail.com** </li>
+    </ul>
+  </div>
+
+  <div style="width: 45%;">
+    <h3>🧑‍💻 About Me</h3>
+    <ul>
+      <li>My name is Manuel Barrenechea, graduated from Computer Engineering, i am a Data Scientist making my way through the data world </li>
+      <li>🔭 I’m currently working on Data Scientist and Engineering proyects </li>
+      <li>🌱 Currently studying a master's degree in artificial intelligence </li>
+      <li>📫 How to reach me **bgmanuel1999@gmail.com** </li>
+    </ul>
+  </div>
 </div>
 
 <h3 align="left">Connect with me</h3>
