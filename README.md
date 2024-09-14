@@ -11,17 +11,28 @@
 <h1 align=center>Welcome to my profile!!👋</h1>
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <div style="max-width: 50%; flex-direction: column">
-    <h4 align="center">Mi name is Manuel Barrenechea, graduate from a Computer Engineering degree, i am a Data Scientist making my way through the data world.</h4>
-    <h4 align="center">🔭 I’m currently working on Data Engineering and Data Scientist proyects for a company in Madrid.</h4>
-    <h4 align="center">🌱 Currently studying a master degree in artificial intelligence</h4>
+  <div style="flex: 1; max-width: 45%; text-align: left;">
+    <ul>
+      <li>I love Hackathons, Swimming and Tennis.</li>
+      <li>I’m on a journey to build a big house in Alaska!</li>
+      <li>I enjoy creating content for my YouTube channel, where I share coding tutorials and project walkthroughs.</li>
+      <li>In my free time, I explore the beauty of nature and capture it through my photography on Instagram.</li>
+    </ul>
   </div>
-  <div style="max-width: 50%; flex-direction: column">
-    <h4 align="center">Mi name is Manuel Barrenechea, graduate from a Computer Engineering degree, i am a Data Scientist making my way through the data world.</h4>
-    <h4 align="center">🔭 I’m currently working on Data Engineering and Data Scientist proyects for a company in Madrid.</h4>
-    <h4 align="center">🌱 Currently studying a master degree in artificial intelligence</h4>
+  
+  <div style="flex: 1; max-width: 45%; text-align: left;">
+    <ul>
+      <li>I love Hackathons, Swimming and Tennis.</li>
+      <li>I’m on a journey to build a big house in Alaska!</li>
+      <li>I enjoy creating content for my YouTube channel, where I share coding tutorials and project walkthroughs.</li>
+      <li>In my free time, I explore the beauty of nature and capture it through my photography on Instagram.</li>
+    </ul>
   </div>
 </div>
+
+<h4 align="center">Mi name is Manuel Barrenechea, graduate from a Computer Engineering degree, i am a Data Scientist making my way through the data world.</h4>
+<h4 align="center">🔭 I’m currently working on Data Engineering and Data Scientist proyects for a company in Madrid.</h4>
+<h4 align="center">🌱 Currently studying a master degree in artificial intelligence</h4>
 
 - 📫 How to reach me **bgmanuel1999@gmail.com**
 
