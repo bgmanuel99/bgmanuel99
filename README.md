@@ -1,6 +1,6 @@
 <div>
   <a href="https://liyasthomas.github.io/banner/">
-    <img align=center src="https://github.com/bgmanuel99/banner.png">
+    <img align=center src="https://github.com/bgmanuel99/bgmanuel99/blob/main/banner.png">
   </a>
 </div>
 <h2>:hammer_and_wrench: Languages and Tools</h2>
