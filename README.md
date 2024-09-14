@@ -17,7 +17,9 @@
     <h4 align="center">🌱 Currently studying a master degree in artificial intelligence</h4>
   </div>
   <div style="max-width: 50%; flex-direction: column">
-    
+    <h4 align="center">Mi name is Manuel Barrenechea, graduate from a Computer Engineering degree, i am a Data Scientist making my way through the data world.</h4>
+    <h4 align="center">🔭 I’m currently working on Data Engineering and Data Scientist proyects for a company in Madrid.</h4>
+    <h4 align="center">🌱 Currently studying a master degree in artificial intelligence</h4>
   </div>
 </div>
 
