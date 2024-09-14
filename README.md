@@ -25,6 +25,13 @@
   </a>
 </p>
 
+<h3 align="center">⚒️ Languages and Tools</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c++,java,vsc" alt="Skills and tools"/>
+  </a>
+</p>
+
 <div align=center>
   <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
