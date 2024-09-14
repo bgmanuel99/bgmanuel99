@@ -10,11 +10,13 @@
 
 <h1 align=center>Welcome to my profile!!👋</h1>
 
-<h4 align="center">Mi name is Manuel Barrenechea, graduate from a Computer Engineering degree, i am a Data Scientist making my way through the data world.</h4>
-<h4 align="center">🔭 I’m currently working on Data Engineering and Data Scientist proyects for a company in Madrid.</h4>
-<h4 align="center">🌱 Currently studying a master degree in artificial intelligence</h4>
-
-- 📫 How to reach me **bgmanuel1999@gmail.com**
+<h3>🧑‍💻 About Me</h3>
+<ul>
+  <il>My name is Manuel Barrenechea, graduated from Computer Engineering, i am a Data Scientist making my way through the data world</il>
+  <il>🔭 I’m currently working on Data Scientist and Engineering proyects</il>
+  <il>🌱 Currently studying a master's degree in artificial intelligence</il>
+  <il>📫 How to reach me **bgmanuel1999@gmail.com**</il>
+</ul>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
