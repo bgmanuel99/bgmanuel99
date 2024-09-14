@@ -3,33 +3,19 @@
 <h1 align=center>Welcome to my profile!!👋</h1>
 <img align=right src="https://komarev.com/ghpvc/?username=bgmanuel99&color=blueviolet&style=flat&label=Visitors&abbreviated=true" alt="bgmanuel99"/>
 
-<div style="display: flex; flex-direction: row; width: 100%;">
-  <div style="width: 45%;">
-    <h3>🧑‍💻 About Me</h3>
-    <ul>
-      <li>My name is Manuel Barrenechea, graduated from Computer Engineering, i am a Data Scientist making my way through the data world </li>
-      <li>🔭 I’m currently working on Data Scientist and Engineering proyects </li>
-      <li>🌱 Currently studying a master's degree in artificial intelligence </li>
-      <li>📫 How to reach me **bgmanuel1999@gmail.com** </li>
-    </ul>
-  </div>
+<h3>🧑‍💻 About Me</h3>
+<ul>
+  <li>My name is Manuel Barrenechea, graduated from Computer Engineering, i am a Data Scientist making my way through the data world </li>
+  <li>🔭 I’m currently working on Data Scientist and Engineering proyects </li>
+  <li>🌱 Currently studying a master's degree in artificial intelligence </li>
+  <li>📫 How to reach me **bgmanuel1999@gmail.com** </li>
+</ul>
 
-  <div style="width: 45%;">
-    <h3>🧑‍💻 About Me</h3>
-    <ul>
-      <li>My name is Manuel Barrenechea, graduated from Computer Engineering, i am a Data Scientist making my way through the data world </li>
-      <li>🔭 I’m currently working on Data Scientist and Engineering proyects </li>
-      <li>🌱 Currently studying a master's degree in artificial intelligence </li>
-      <li>📫 How to reach me **bgmanuel1999@gmail.com** </li>
-    </ul>
-  </div>
-</div>
-
-<h3 align="left">Connect with me</h3>
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bgmanu99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bgmanuel99" height="30" width="40"/></a>
-<a href="https://www.linkedin.com/in/mbg99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bgmanuel99" height="30" width="40"/></a>
-<a href="https://www.instagram.com/bgmanuel99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bgmanuel99" height="30" width="40"/></a>
+  <a href="https://twitter.com/bgmanu99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/mbg99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/bgmanuel99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
 
 <div align=center>
