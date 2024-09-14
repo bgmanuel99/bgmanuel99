@@ -3,7 +3,7 @@
     <img align=center src="https://github.com/bgmanuel99/bgmanuel99/blob/main/profile_banner.png">
   </a>
 </div>
-
+<h1></h1>
 <div align=right>
   <img src="https://komarev.com/ghpvc/?username=bgmanuel99&color=blueviolet&style=flat&label=Profile+views&abbreviated=true" alt="bgmanuel99"/>
 </div>
