@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<div align=right style="margin-top: 20px;">
+<div align=right style="margin-top: 200px;">
   <img src="https://komarev.com/ghpvc/?username=bgmanuel99&color=blueviolet&style=flat&label=Profile+views&abbreviated=true" alt="bgmanuel99"/>
 </div>
 <h2>:hammer_and_wrench: Languages and Tools</h2>
