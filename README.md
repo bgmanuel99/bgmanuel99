@@ -5,10 +5,10 @@
 
 <h3>🧑‍💻 About Me</h3>
 <ul>
-  <li>👨🏻‍🎓 Graduated from Computer Engineering, i am a Data Scientist making my way through the data world </li>
-  <li>🔭 I’m currently working on Data Scientist and Engineering proyects </li>
+  <li>👨🏻‍🎓 Graduated from Computer Engineering, i am a Data Scientist making my way through the data world</li>
+  <li>🔭 I’m currently working on Data Scientist and Engineering proyects</li>
   <li>🌱 Currently studying a master's degree in artificial intelligence 🔬</li>
-  <li>📫 How to reach me **bgmanuel1999@gmail.com** </li>
+  <li>📫 How to reach me <mark>bgmanuel1999@gmail.com</mark></li>
 </ul>
 
 <h3 align="left">🌐 Connect with me:</h3>
