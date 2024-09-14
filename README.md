@@ -5,7 +5,7 @@
 </div>
 <div>
   <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <p>![](https://komarev.com/ghpvc/?username=bgmanuel99&color=blueviolet&style=flat&label=Views&abbreviated=true)</p>
+    ![](https://komarev.com/ghpvc/?username=bgmanuel99&color=blueviolet&style=flat&label=Views&abbreviated=true)
   </a>
 </div>
 <h2>:hammer_and_wrench: Languages and Tools</h2>
