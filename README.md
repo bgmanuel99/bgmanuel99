@@ -10,7 +10,7 @@
 
 <h1 align=center>Welcome to my profile!!👋</h1>
 
-<div style="flex-direction: row">
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <div style="max-width: 50%; flex-direction: column">
     <h4 align="center">Mi name is Manuel Barrenechea, graduate from a Computer Engineering degree, i am a Data Scientist making my way through the data world.</h4>
     <h4 align="center">🔭 I’m currently working on Data Engineering and Data Scientist proyects for a company in Madrid.</h4>
