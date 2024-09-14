@@ -28,7 +28,7 @@
     </a>
   </div>
   <div>
-    <a href="https://git.io/streak-stats">+
+    <a href="https://git.io/streak-stats">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=bgmanuel99&theme=shadow-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
     </a>
   </div>
