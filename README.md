@@ -1,4 +1,4 @@
-<div style="margin-bottom: 20px;">
+<div>
   <a href="https://liyasthomas.github.io/banner/">
     <img align=center src="https://github.com/bgmanuel99/bgmanuel99/blob/main/profile_banner.png">
   </a>
