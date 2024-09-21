@@ -39,17 +39,11 @@
 <br><br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100"/>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bgmanuel99&theme=juicyfresh&row=3&column=3&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C" width="200"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=bgmanuel99&theme=juicyfresh&row=3&column=3&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C" width="400"/>
   </a>
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200"/>
-</div>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bgmanuel99&theme=juicyfresh&row=3&column=3&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C"/>
-  </a>
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100"/>
 </div>
 
 <div align=center>
