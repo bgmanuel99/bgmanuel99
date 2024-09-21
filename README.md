@@ -28,7 +28,7 @@
 <h3 align="center">⚒️ Languages and Tools</h3>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,scala,opencv,sklearn,tensorflow,vscode,arduino,git,github,gitlab,cmake,eclipse,qt,visualstudio,anaconda,ubuntu,unity,postman&perline=13" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,scala,opencv,sklearn,tensorflow,arduino,git,github,gitlab,cmake,vscode,eclipse,qt,visualstudio,anaconda,ubuntu,unity&perline=10" alt="Skills and tools"/>
   </a>
 </div>
 
