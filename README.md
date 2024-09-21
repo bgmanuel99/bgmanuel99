@@ -32,7 +32,7 @@
   </a>
 </div>
 
-<div>
+<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=bgmanuel99&theme=juicyfresh&row=3&column=3&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C"/>
   </a>
