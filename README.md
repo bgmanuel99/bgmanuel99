@@ -34,7 +34,7 @@
 
 <div>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bgmanuel99&theme=dark_lover"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=bgmanuel99&theme=juicyfresh"/>
   </a>
 </div>
 
