@@ -1,9 +1,7 @@
 [![Banner](https://github.com/bgmanuel99/bgmanuel99/blob/main/banner.png)](https://liyasthomas.github.io/banner/)
-<br><br>
-
-<img align=right src="https://komarev.com/ghpvc/?username=bgmanuel99&color=blueviolet&style=flat&label=Visitors&abbreviated=true" alt="bgmanuel99"/>
 
 <h1 align=center>Welcome to my profile!!👋</h1>
+<img align=right src="https://komarev.com/ghpvc/?username=bgmanuel99&color=blueviolet&style=flat&label=Visitors&abbreviated=true" alt="bgmanuel99"/>
 
 <h3>🧑‍💻 About Me</h3>
 <ul>
@@ -35,7 +33,7 @@
 </div>
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
